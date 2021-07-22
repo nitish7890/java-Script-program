@@ -1,0 +1,4 @@
+var min = 10000;
+var max = 90000;
+var num = Math.floor(Math.random() * min)) + max;
+console.log("5 Random digit="+num);
